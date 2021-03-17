@@ -1,4 +1,4 @@
-# UNIX-CLI
+# Shell Commands
 
 In the terminal, first you see `$`. This is called a **shell prompt**. It appears when the terminal is ready to accept a command.
 
